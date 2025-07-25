@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning: Javascript.
 - 💬 Ask me about: My name is Davi, 27 years old, brazilian. 
 - ⚡ Fun fact: It's all new for me, patience. 😆
--->
+
